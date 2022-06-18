@@ -73,3 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 ConnectionsJam.uproject
+ConnectionsJam.uproject
+*.uproject
+*.uproject
